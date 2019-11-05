@@ -1,4 +1,4 @@
-### Password Generater - code along
+# Password Generater - code along
 An javascript project, to generate random password.
 ![Project Image](doc/pwGenerater.png)
 
